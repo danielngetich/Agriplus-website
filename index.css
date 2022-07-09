@@ -108,3 +108,9 @@ header, h1, h3, button{
 .mkulima{
     border: solid 2px grey;
 }
+.botom{
+    display: flex;
+    border: solid 1px black;
+    justify-content: space-between; 
+    height: 400px;
+}
