@@ -58,3 +58,10 @@ header, h1, h3, button{
     font-weight: bold;
     color: white;
 }
+.customers{
+    display: flex;
+    border: solid 2px black;
+    width: 50%;
+    margin: 20px;
+    justify-content: space-between;
+}
