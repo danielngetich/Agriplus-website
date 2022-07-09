@@ -75,3 +75,13 @@ header, h1, h3, button{
     padding-top: 30px;
     font-family: "Poppins,inter" sans-serif;
 }
+.our{
+    text-align: center;
+    font-size: 26px;
+}
+.products{
+    display: flex;
+}
+#mo{
+    margin: 15px;
+}
