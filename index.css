@@ -103,4 +103,8 @@ header, h1, h3, button{
 }
 .feedback{
     display: flex;
+    justify-content: space-between;
+}
+.mkulima{
+    border: solid 2px grey;
 }
