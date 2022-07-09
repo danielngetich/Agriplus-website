@@ -101,3 +101,6 @@ header, h1, h3, button{
 .item{
     margin: 15px;
 }
+.feedback{
+    display: flex;
+}
