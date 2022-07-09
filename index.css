@@ -95,3 +95,9 @@ header, h1, h3, button{
 .goods{
     margin: 15px;
 }
+.new{
+    display: flex;
+}
+.item{
+    margin: 15px;
+}
