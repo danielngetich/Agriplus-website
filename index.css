@@ -104,13 +104,43 @@ header, h1, h3, button{
 .feedback{
     display: flex;
     justify-content: space-between;
+    padding: 40px;
 }
 .mkulima{
-    border: solid 2px grey;
+    border: solid 2px white;
+    box-shadow: 5px 5px 2px grey;
+    height: 200px;
+}
+.mkulima p{
+    font-weight: bold;
+    font-size: 20px;
+}
+.address{
+    border: solid 1px black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    height: 300px;
+    text-align: center;
+}
+.foot{
+    font-size: large;
+    padding: 70px;
+}
+.foot p,h2{
+    padding: 20px;
+}
+.address p{
+    font-size: large;
+    padding: 20px;
+    font-weight: bold;
 }
 .botom{
     display: flex;
     border: solid 1px black;
     justify-content: space-between; 
     height: 400px;
+    background-color: black;
+    color: white;
 }
