@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Poppins, Inter sans-serif;
 }
 header{
     display: flex;
@@ -43,10 +44,17 @@ header, h1, h3, button{
     display: flex;
     flex-direction: row;
 }
-.intro1{
-}
 .intro p{
     font-size: 20px;
     margin: 30px;
     padding-top: 30px;
+}
+#buy{
+    font-size: 30px;
+     font-weight: bold;
+}
+#button2{
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
 }
