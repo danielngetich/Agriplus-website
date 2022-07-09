@@ -65,3 +65,13 @@ header, h1, h3, button{
     margin: 20px;
     justify-content: space-between;
 }
+.why{
+    display: flex;
+    flex-direction: row;
+}
+.exist{
+    font-size: 24px;
+    margin-left: 30px;
+    padding-top: 30px;
+    font-family: "Poppins,inter" sans-serif;
+}
