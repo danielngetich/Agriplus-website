@@ -1,8 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: Poppins, Inter sans-serif;
+    font-family:poppins;
 }
 header{
     display: flex;
@@ -32,8 +31,9 @@ button{
 header, h1, h3, button{
     cursor: pointer;
 }
-.navigation,li a:hover{
+a:hover{
     color: #ED661F;
+    text-decoration:underline;
 }
 .back{
     background-image: url("assets/image 1.png");
@@ -107,6 +107,12 @@ header, h1, h3, button{
     padding: 50px;
     text-decoration: #ED661F underline;
     font-weight: 600;
+}
+.line{
+    border: solid 1px grey;
+    height: 30px;
+    background-color: grey;
+    margin: 10px;
 }
 #est{
     font-size: x-large;
