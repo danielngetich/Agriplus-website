@@ -101,6 +101,19 @@ header, h1, h3, button{
 .item{
     margin: 15px;
 }
+#all{
+    text-align: right;
+    font-size: larger;
+    padding: 50px;
+    text-decoration: #ED661F underline;
+    font-weight: 600;
+}
+#est{
+    font-size: x-large;
+    text-align: justify;
+    font-weight: bold;
+    padding-left: 70px;
+}
 .feedback{
     display: flex;
     justify-content: space-between;
