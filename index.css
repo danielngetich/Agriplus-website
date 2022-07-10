@@ -41,8 +41,6 @@ a:hover{
     background-repeat: no-repeat;
     height: 80vh;
 }
-.intro{
-}
 .intro p{
     font-size: 20px;
     margin: 30px;
@@ -61,18 +59,25 @@ a:hover{
 }
 .customers{
     display: flex;
-    border: solid 2px black;
+    border: solid 2px white;
+    box-shadow: 0 3px grey;
     width: 50%;
-    height: 100px;
-    margin: 20px;
+    height: 130px;
+    margin-top: -50px;
+    background-color: white;
     justify-content: space-between;
     margin-left: 40%;
-    padding-top: -30px;
+    font-weight: bold;
+}
+.vend{
+    text-align: center;
+    padding: 30px;
 }
 
 .why{
     display: flex;
     flex-direction: row;
+    padding-top: 30px;
 }
 .exist{
     font-size: 20px;
@@ -94,6 +99,9 @@ a:hover{
 }
 .goods{
     margin: 40px;
+}
+.goods h2,h3,{
+    text-align: left;
 }
 .new{
     display: flex;
@@ -174,6 +182,6 @@ a:hover{
     float: right;
     height: 63vh;
 }
-table{
-
+form #form{
+    height: 50px;
 }
