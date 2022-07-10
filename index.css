@@ -37,12 +37,11 @@ a:hover{
 }
 .back{
     background-image: url("assets/image 1.png");
-    background-size: cover;
+    background-size:cover;
     background-repeat: no-repeat;
+    height: 80vh;
 }
 .intro{
-    display: flex;
-    flex-direction: row;
 }
 .intro p{
     font-size: 20px;
@@ -162,4 +161,12 @@ a:hover{
     height: 400px;
     background-color: black;
     color: white;
+}
+/*#rect{
+    height: 300px;
+    width: 300px;
+}*/
+#rec{
+    float: right;
+    height: 50vh;
 }
