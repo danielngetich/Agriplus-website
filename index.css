@@ -136,15 +136,10 @@ a:hover{
 .mkulima{
     border: solid 2px white;
     box-shadow: 5px 5px 2px grey;
-    height: 200px;
-}
-/*.mkulima div{
-    position: absolute;
-    transform: translate(-50%, -50%);*/
-}
-.mkulima p{
-    font-weight: bold;
-    font-size: 20px;
+    height: 350px;
+    width: 350px;
+    justify-content: center;
+    margin: 30px;
 }
 .address{
     border: solid 1px black;
@@ -184,4 +179,11 @@ a:hover{
 }
 form #form{
     height: 50px;
+}
+#reb{
+    padding-top: 60px;
+}
+.mkulima p{
+    font-size: 40px;
+    font-weight: 700;
 }
