@@ -93,13 +93,13 @@ a:hover{
     margin: 15px;
 }
 .goods{
-    margin: 15px;
+    margin: 40px;
 }
 .new{
     display: flex;
 }
 .item{
-    margin: 15px;
+    margin: 40px;
 }
 #all{
     text-align: right;
@@ -129,6 +129,10 @@ a:hover{
     border: solid 2px white;
     box-shadow: 5px 5px 2px grey;
     height: 200px;
+}
+/*.mkulima div{
+    position: absolute;
+    transform: translate(-50%, -50%);*/
 }
 .mkulima p{
     font-weight: bold;
@@ -163,13 +167,12 @@ a:hover{
     background-color: black;
     color: white;
 }
-/*#rect{
-    height: 300px;
-    width: 300px;
-}*/
+#rect{
+    height: 30vh;
+}
 #rec{
     float: right;
-    height: 70vh;
+    height: 63vh;
 }
 table{
 
